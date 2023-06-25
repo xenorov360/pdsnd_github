@@ -21,6 +21,6 @@ NumPy and Pandas
 Website Referred : https://git-scm.com/doc
 App Referred : Udacity GPT 
 
-### Editor Used
+### Editor_Used
 Notepad++ and Udacity Cloud Editor
 

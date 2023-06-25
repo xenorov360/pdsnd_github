@@ -180,6 +180,7 @@ def user_stats(df):
     print('-' * 40)
 
 def display_data(df):
+    ### Display granular level data if needed by user
     print(df.head())
     next = 0
     while True:

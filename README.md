@@ -14,7 +14,13 @@ Data Source Used : Bikeshare data from Chicago, New York and Washington
 Git Commands Summary Sheet : Git-KeyTerms
 Task Sheet : Git Commands Documentation 
 
+### Python Packages Used
+NumPy and Pandas
+
 ### Credits
 Website Referred : https://git-scm.com/doc
 App Referred : Udacity GPT 
+
+### Editor Used
+Notepad++ and Udacity Cloud Editor
 
